@@ -1,0 +1,3 @@
+August Bresnaider, etc3xg
+I have taken CSO1 and CSO2 and TA'ed for them, and have fiddled around with Arduino, STM32, and Nordic microcontrollers. My most recent project is my capstone, ROMULUS-I, where I designed and built a 16-bit CPU from scratch.
+I enjoy working at and below the hardware abstraction layer, and I hope to gain more hands-on experience with such. Also, I'll be taking up a job where I will work on RTOS implementation, and I think this course will help me prepare for that as well.
