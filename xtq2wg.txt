@@ -1,0 +1,3 @@
+Kyle Clemente, xtq2wg
+I have taken CSO1, CSO2, Intro to Embedded Systems, and Computer Architecture. I am currently TAing for Computer Architecture. I gained considerable experience using STM32 microcontrollers and the C language in my Capstone last semester.
+I am especially interested in the real-world application of embedded systems such as wearable systems. I hope to gain a greater understanding of how the software behind these systems interacts with the physical world. I hope to go into a career in this field, so this class will serve as a great introduction to this field.
