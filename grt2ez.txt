@@ -1,0 +1,10 @@
+Nitya Khamar, grt2ez
+
+	In terms of my background for embedded systems design and programming, I have taken both Introduction to Embedded Systems and Computer Systems Organizations 2. 
+	I have been a TA for both CSO courses. Currently, I am a TA for Introduction to Embedded Systems this semester. Outside of being a TA, I am currently work on developing a low cost water level sensor to be deployed in flooding prone areas. 
+
+ Your background in embedded systems design and programming, including any
+previous embedded systems, computer architecture, or operating systems courses
+that you have taken, relevant projects you have done, and any micro-controllers,
+embedded platforms, and programming languages you have used.
+ A short paragraph on your interests and what you expect to take out of this class.
