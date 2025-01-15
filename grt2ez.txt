@@ -1,0 +1,6 @@
+Nitya Khamar, grt2ez
+
+	In terms of my background for embedded systems design and programming, I have taken both Introduction to Embedded Systems and Computer Systems Organizations 2. 
+	I have been a TA for both CSO courses. Currently, I am a TA for Introduction to Embedded Systems this semester. Outside of being a TA, I am currently work in the IoT research field where I am working to develop a low cost water level sensor to be deployed in flooding prone areas. I have primarily worked with STM and Arduino microcontrollers. Most of the embedded projects I have undertaken involve either using C or C++. 
+ 	Personally, I enjoy working with embedded systems that relay a positive impact on people's lives. Specifically, I am interested in foraying into how embedded systems can be implemented in the medical field. I enjoy being able to take tasks and decompose them into something that can be automated or done using some embedded system design. Through this class, I hope to further my ability to work with embedded systems and implement them from the ground up. Another huge thing that I hope to take out of this class is the opportunity to learn about how topics within operating systems courses can apply to embedded systems.
+
