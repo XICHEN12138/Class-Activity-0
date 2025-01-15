@@ -1,0 +1,5 @@
+Ezeuko Emmanuel 
+MZQ5FK
+I have experience working with FPGAs using verilog and VHDL and have studied the xv6 kernel in the past.
+At the end of this class, I intend to be able to design consumer-usable products, currently i design systems like cpu
+which are not consumer-ready.
