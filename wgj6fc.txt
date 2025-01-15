@@ -1,0 +1,4 @@
+Daniel Sarria (wgj6fc)
+
+My background in embedded systems consists of ECE 3430 (Introduction to Embedded Computer Systems), ECE 4435 (Computer Architecture and Design), as well as CSO1 and CSO2. Some relevant projects I have done is my capstone project, in which my team and I designed an ESL Comprehension Aid for children, utilizing an STM32 microcontroller. The two microcontrollers I have used are the STM32 Nucleo board and the STM32 Discovery board. The main languages I used for embedded programming is the C Programming Language. 
+My interests are mainly in the applications of embedded systems, especially in the Internet of Things. I expect to learn about RTOS and how to implement it in an embedded system, as well as advancing my overall knowledge in the embedded field.

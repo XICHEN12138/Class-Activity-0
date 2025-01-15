@@ -1,0 +1,7 @@
+Name and ID:
+Molly Gibson, huk6cg
+
+Background:
+I took Introduction to Embedded Systems last year. I have experience interacting with a more complex audio processing STM32 microcontroller as well for my Capstone project last semester. I have experience with Java, Python, C++, and C at UVA and have also used C# and MATLAB to directly interact with hardware during my Summer internship.
+
+I am very interested in embedded computing since I have taken the intro course and hope to obtain more in-depth knowledge of the subject through taking this class. I am majoring in both EE and CPE and have a lot of interest in direct interaction with hardware. I am unsure of my exact interests to dive into in industry but hope that this class helps me narrow this down.
