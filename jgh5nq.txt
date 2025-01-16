@@ -1,0 +1,3 @@
+Kyle McDonald - jgh5nq
+I don't have an extensive background in embedded systems programming butI am currently working on changing that. I have taken a few robotics courses that have allowed me to work with Jetson Nano, TurtleBot, ROS, and Raspberry Pi and I have done some embedded system programming in C.
+I am interested in embedded systems as they apply to robotics and autonomous systems and I hope that I can learn more about low level hardware communication from this class and give me a better background for interfacing between robotics hardware and the software that runs on top.

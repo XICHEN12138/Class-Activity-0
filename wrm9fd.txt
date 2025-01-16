@@ -1,0 +1,3 @@
+Name: Claire, Chiang   UVA ID: wrm9fd
+Background: I have taken intro to embedded, Operating system and computer architecture courses. Use Stm32 board and Raspberry Pi in internship and courses before and mainly used C/C++ and python.
+Expect: I'm interested in embedded systems and want to know more about real-word experience in this field.
