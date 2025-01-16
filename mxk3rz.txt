@@ -1,0 +1,7 @@
+Ben Kessler, MXK3RZ
+Background: 
+	Courses: CSO1, CSO2, Intro to Embedded. 
+	Projects: I made a tiny robot taxi, I work on the embedded system for Solar Car
+	micro-controllers: STM32, Arduino, Raspberry Pi
+	Programming languages: C, C++, Python, Java, MATLAB, ROS2, Verilog
+Interest: I enjoy embedded programming and Robotics, this course was described to me as teaching some RTOS which is applicable to robotics. I think this courses might teach me something relevant to robotics and if it doesn't ill still be happy because I am interested in embedded systems and work with them often.
