@@ -1,0 +1,5 @@
+Allen Chen (wmm7wr)
+
+My relevant coursework would probably be DLD, CSO1, CSO2, and Intro to Embedded. I have not done a lot really with microcontrollers asides from the STM board used in the previous semester for the Intro to Embedded class as well as knowledge regarding Beagleboards and minimal knowledge on Arduinos and Raspberry Pis. I have programmed primarily in Python, Java, and C in my career so far.
+
+My personal hobbies include lifting, watching football, and playing videos games. I hope to learn a lot regarding embedded systems in this class, as I recently have found passion for this sub topic in field. I am hoping my education from this course will develop into a possible career into the future in this field.
