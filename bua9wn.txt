@@ -1,0 +1,5 @@
+Miles Mayhew, bua9wn
+
+I have taken the intro to embedded course at UVA, and used the STM32 microcontroller. I have also taken computer system organization 1 and 2, in which I coded in C. I have also used java and python.
+
+I am interested in real world application of embedded systems and want to gain hands on experience using them. I am majoring in CPE and want to learn more about hardware and software interactions. Also in my free time I enjoy playing soccer and skiing.
