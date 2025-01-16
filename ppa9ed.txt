@@ -1,0 +1,4 @@
+Logan Mills, ppa9ed
+
+I have taken CSO1 and CSO2 at UVA, and have done at-home projects in C++. I am familiar with most of the popular programming languages like Java, Python, C++, etc.
+I do not have any experience with embedded systems, but I would like to learn more about how they work and how to work with them. I enjoy looking at low-level systems like embedded systems and would like to explore their applications.
