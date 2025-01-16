@@ -1,0 +1,20 @@
+1. Jennifer Shern (Legal Name: Yujie Shern), szx7kp
+2. I have taken the following courses:
+
+    ECE 3430 Intro Embedded Computer Systems: implemented a data logger in C with SPI and I2C protocol utilizing STM32 microcontroller. 
+    Numbers were written to and retrieved from certain addresses of each EEPROMs for functionality testing.
+
+    CS 2130 Computer Systems and Org 1: various assignments related binary, hex, assembly and C (chat interface and calculator program).
+
+    CS 3130 Computer Systems and Org 2: various assignments related to computer architecture components using C.
+
+    ECE 4440 Embedded System Design: MIDI controller utilizing Raspberry Pi Pico (programed with Circuit Python).
+
+3. I am interested in integrated circuits and am planning to pursue a career in this field. 
+    However, I also enjoy programming embedded systems and would like to gain more hands-on experience in this area. 
+    Through this course, I aim to learn more about embedded system architecture, as well as develop skills in implementing multitasking and thread management. 
+    Additionally, I hope to improve my coding and debugging skills through the course's projects and assignments, 
+    enabling me to optimize my code when programming embedded systems.
+
+Jennifer Shern, szx7kp, https://github.com/JenniferShern/Class-Activity-0
+
