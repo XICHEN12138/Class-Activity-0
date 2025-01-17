@@ -33,15 +33,19 @@ and Deduction" in full), which was my team and I's capstone design project. The
 project containing the firmware and other software for the board may be viewed
 at: https://github.com/peek-dev/capstone
 
-Lastly, I was an undergraduate teaching assistant for CS 2130: Computer Systems
-and Organization 1 (a computer architecture class also covering x86 assembly
-and C) in Spring 2023 and an undergraduate teaching assistant for CS 3130 in
-Spring 2024 and Fall 2024. Currently (in Spring 2025), I am a teaching
-assistant for ECE 4501: Advanced Embedded Computing Systems. I'm super eager to
-do yet **more** teaching related to operating systems and low-level C. What I
-hope to get out of the semester is the knowledge that you all had an enjoyable
+I was an undergraduate teaching assistant for CS 2130: Computer Systems and
+Organization 1 (a computer architecture class also covering x86 assembly and C)
+in Spring 2023 and an undergraduate teaching assistant for CS 3130 in Spring
+2024 and Fall 2024. Currently (in Spring 2025), I am a teaching assistant for
+ECE 4501: Advanced Embedded Computing Systems. I'm super eager to do yet
+**more** teaching related to operating systems and low-level C. What I hope to
+get out of the semester is the knowledge that you all had an enjoyable
 experience implementing a real-time operating system and practicing operating
 system constructs in low-level C and assembly. Don't hesitate to reach out and
 ask for help---I really do get a kick out of doing this job :)
 
-
+Lastly, I have a variety of interests in computer science and engineering.
+Computer architecture, embedded systems and operating systems programming, and
+cybersecurity (including application security, digital forensics, threat
+intelligence, and embedded security) are only a few. The shorter answer is
+anything involving C.
