@@ -1,0 +1,14 @@
+Name: Raul Cancho
+Computing ID: mpp9cu
+
+Background:
+My relevant coursework includes Digital Logic Design,
+Intro to Embedded Systems, and currently taking Computer
+Architecture. I have experience with STM32 microcontrollers, but
+I would like to expand my knowledge on microcontrollers. 
+Programming languages I know are C, Java, and Python. 
+
+Interests and Expectations:
+I am interested in expanding my knowledge in embedded systems 
+and make an impact in various industries, like in the medical field or
+video game consoles.  
