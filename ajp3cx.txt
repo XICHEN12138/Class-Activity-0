@@ -1,0 +1,14 @@
+Sami Kang, ajp3cx
+
+Background: I took embedded systems last semester and taking computer
+architecture this semester. I am proficient in mostly Java and C, but also
+know Python. I have used STMCubeIDE last semester for embedded systems and 
+engineered an STM32-based signal processing system with real-time ADC sampling,
+DAC output, and flash memory logging. Also, I implemented memory mapping across 
+SPI and I2C devices and optimized ReadByte() and WriteByte() functions for
+efficient data handling.
+
+Interests: After completing this class, I wish to be able to have a deeper
+understanding of embedded systems and its design components. Moreover, I wish
+to become quicker in reading and comprehending data sheets and work together 
+in teams to succeed in creating a working design.  
