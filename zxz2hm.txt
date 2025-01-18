@@ -1,0 +1,51 @@
+Paul Karhnak (zxz2hm)
+zxz2hm@virginia.edu OR paulk@virginia.edu
+
+I have academic experience with embedded systems and computer architecture,
+plus both academic and professional experience with low-level
+programming/systems programming in C. In Spring 2023, I took ECE 3430:
+Introduction to Embedded Computer Systems, where we implemented drivers for
+peripherals like SPI, pushbuttons, and an ADC for a TI MSP432 board. In Spring
+2023 and Fall 2023, I took CS 3130: Computer Systems and Organization 2, where
+I wrote low-level C code to implement operating system features. CS 3130 also
+dealt with computer architecture essentials like pipelined and out-of-order
+execution. In Spring 2024, I took ECE 4501: Advanced Embedded Computing
+Systems, where I co-developed a real-time operating system (RTOS) kernel for a
+TI Tiva TM4C123GH6PM board, culminating in a final project where my team and I
+developed a small video game similar to DOOM. 
+
+In Summer 2024, I developed the MUSTANG file traversal utility for Los Alamos
+National Laboratory's High Performance Computing Infrastructure (HPC-INF)
+group. MUSTANG makes extensive use of Linux system calls (particularly
+filesystem function calls) and multithreading through the pthreads API. The
+code I wrote may be viewed at:
+https://github.com/pdkarhnak/marfs-mustang-devel/tree/master/src/mustang.
+
+In Fall 2024, I took ECE 4440: Embedded System Design, where my team and I
+ported FreeRTOS to a TI MSPM0G3507 microcontroller, then developed firmware to
+interface with a wide range of board features (ADC and GPIO reading, SPI, and
+UART, the last of which was my specialty). Also in Fall 2024, I administered a
+Raspberry Pi board (first a 5, then a 4B) to do relatively "higher-level" Linux
+systems programming in support of our project. My work in ECE 4440 supported an
+electronic chessboard (formally, the C.H.E.S.S.B.O.A.R.D., or the "Chess
+Helper, Evaluator, and Study Supporter to Boost Observation, Acumen, Reasoning,
+and Deduction" in full), which was my team and I's capstone design project. The
+project containing the firmware and other software for the board may be viewed
+at: https://github.com/peek-dev/capstone
+
+I was an undergraduate teaching assistant for CS 2130: Computer Systems and
+Organization 1 (a computer architecture class also covering x86 assembly and C)
+in Spring 2023 and an undergraduate teaching assistant for CS 3130 in Spring
+2024 and Fall 2024. Currently (in Spring 2025), I am a teaching assistant for
+ECE 4501: Advanced Embedded Computing Systems. I'm super eager to do yet
+**more** teaching related to operating systems and low-level C. What I hope to
+get out of the semester is the knowledge that you all had an enjoyable
+experience implementing a real-time operating system and practicing operating
+system constructs in low-level C and assembly. Don't hesitate to reach out and
+ask for help---I really do get a kick out of doing this job :)
+
+Lastly, I have a variety of interests in computer science and engineering.
+Computer architecture, embedded systems and operating systems programming, and
+cybersecurity (including application security, digital forensics, threat
+intelligence, and embedded security) are only a few. The shorter answer is
+anything involving C.
