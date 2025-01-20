@@ -1,0 +1,9 @@
+Name: Garrett Delaney
+UVA Computing ID: xvd8ad
+
+Background: 
+I took Intro to Embedded Systems here with professor Todd DeLong in autumn 2023. We used STM32 Nucleo microcontrollers, wrote embedded C, and used STM32CubeIDE software. I used the same microcontroller for my 4th year capstone project: the Smart Sprinter, a sports analytics and performance tool that embeds a force sensor into a track starting block. I also took computer architecture with professor DeLong where I created a RISC-V CPU in Verilog. I have never taken a dedicated operating systems class; however, we went over many OS and kernel material in CSO2. I know Python, Java, C and C++ pretty well.
+
+My interests and expectations for this class:
+My personal interests include FPGA development and embedded systems, two fields which often go hand-in-hand. My last internship was in FPGA/embedded systems. I used a MicroBlaze softcore processor on the FPGA and wrote embedded C code for the processor. Hardware designs in VHDL were used to accelerate digital signal processing and controlled by a register on the MicroBlaze. So, I am interested in this bridge between software and hardware and the use of hardware acceleration for algorithms and signal processing.
+I am excited to learn about real-time operating systems (RTOS) in this class. I know what they are, but have never taken a class about them. At my summer internship in the defense industry, RTOSes were used all the time for mission-critical components where the non-deterministic nature of a malloc() call or the thread scheduler could leave the system vulnerable or not responding in time. I hope we learn all about that stuff and how everything operates in kernel mode to speed things up and not have to use system calls.
