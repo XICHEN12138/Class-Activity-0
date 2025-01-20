@@ -1,0 +1,17 @@
+My Name : SZU YUAN CHENG
+
+UVA ID : skf7kn
+
+Background : 
+
+I took introduction to embedded computer system and computer architecture last semester and 
+I take advanced embedded computer system and operating system this semester. I really want to find the embedded software engineer or firmware engineer internship in this semester or find the job from the embedded software engineer or firmware engineer after I graduate from the school.
+Before studying in UVA, I worked as an embedded controller firmware engineer which is the company in Taiwan.
+My job is about designing and verifying embedded controller firmware features using C for notebooks and industrial PCs.
+
+Expectation: 
+Hope to learn the knowledge about embedded computer system and real time operating system. 
+
+
+ 
+
