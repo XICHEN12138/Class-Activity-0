@@ -1,0 +1,5 @@
+Hello, I'm Zeyu Xia, yxn7cj.
+
+I did some LoRA sensor programming on the previous CPS 1 course, based on Arduino, written in C.
+
+I'm a first year CS PhD student, and my research interest is AI4Science. I hope to get the idea of how embedding system works from this course.

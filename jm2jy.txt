@@ -1,0 +1,16 @@
+BACKGROUND - Jason Mensah-Homiah (jm2jy)
+
+My name is Jason Mensah-Homiah, and I have over 11 years of club and hobbyist experience in embedded systems and robotics. 
+My primary platforms include the ESP32 and Raspberry Pi, although I have also extensively worked with various Arduino models such as the Uno, Nano, Mega, and Micro.
+Academically, I have completed both graduate and undergraduate courses in computer architecture, an undergraduate course in operating systems, and several robotics courses that incorporated microcontrollers.
+My project experience spans a wide range, including Unmanned Ground Vehicles (UGVs), autonomous boats, and an ESP32-based Air Quality Monitoring System. 
+Currently, I am working on an Unmanned Aerial Vehicle (UAV) project, and in the past, I have developed numerous smaller projects such as home security systems, general robotics systems, and Arduino/ESP32-based solutions, as well as Raspberry Pi projects integrated with ROS/ROS2. 
+My programming languages of choice for embedded systems include C/C++, Python, and MATLAB.
+
+
+INTERESTS
+
+I completed a double major in Software Engineering and Computer Science during my undergraduate studies and am currently pursuing a Master’s degree in Computer Science.
+My interests lie at the intersection of cybersecurity, autonomous & embedded systems (+ robotics), and software engineering. 
+Basically the realm of cyber-physical systems (CPS), including engineering CPS, and exploiting CPS. 
+From this class, my goal is to deepen my knowledge of embedded systems.

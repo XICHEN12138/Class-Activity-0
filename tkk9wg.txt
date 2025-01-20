@@ -1,0 +1,19 @@
+Name: Marvin Rivera Martinez
+UVA ID: tkk9wg
+
+Background Experience:
+I have a strong foundation in embedded systems through ECE 3430 where I earned an A last semester. 
+My experience includes working with digital logic design (ECE 2330) and electronics (ECE 2600). 
+I've completed essential programming courses including Introduction to Programming, Data Structures, 
+and Software Development Essentials. I also have relevant coursework in Computer Systems and Organization II, 
+which I will be a TA for this semester. Throughout these courses, I was taught Java, Python, C, Matlab, 
+Verilog; I am currently working on self-teaching C++. Lastly, I also form part of
+the Solar Car team where I have collaborated on projects in my subteam (Hardware Integration). 
+My current focus is on Computer Engineering with a path on embedded systems.  
+
+What I Want to Learn:
+I'm truly excited to expand my embedded systems knowledge while taking complementary courses this semester
+in Computer Architecture, Operating Systems, and IoT. I'm interested in learning advanced
+embedded systems concepts and gaining hands-on experience through team-based projects. I am looking forward
+to applying my programming and hardware knowledge to real-world embedded systems challenges and also very excited
+about meeting new people.
