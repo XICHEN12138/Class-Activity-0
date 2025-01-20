@@ -1,0 +1,10 @@
+John Zoscak
+641077690
+
+I am a computer science masters student at UVA and took my undergraduate in CS here at UVA as well. Currently, I am focusing most of my work on Autonomous vehicles development.
+
+I have taken the Operating Systems course offered at UVA (2 years ago) and I took an embedded computing for robotics class in my second year at UVA (3 years ago) where I used an MSP system on a simple robot to program it to drive over white tape on the floor. In this class, I was using a TI IDE for programming on the MCU, and implemented 2 complex state machines for traversing a maze and for following a white line on the ground. 
+
+Last semester, I worked with John Berberian, Alex Sosinkowski, and Blake Zimbardi on a fault injection project for the dependable computing class. This involved using an MSP microcontroller from TI, as well as a RaspberryPI pico 2 with CircuitPy
+
+In the advanced embedded systems class, I'm hoping to try my hand at a lower-level side of computer science and development. MCUs and embedded systems comprise a massive part of the practical applications of robotic systems that are simpler, more custom-engineered, and have lower budget. Hopefully, I can learn enough in this class to be able to implement practical hardware solutions and controllers for product needs.
