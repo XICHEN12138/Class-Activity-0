@@ -1,0 +1,5 @@
+Alexander Sosnkowski (yxv7fp)
+
+I have relatively limited experience with embedded systems. After hearing about them for some time, I wanted to learn more about them so I read 'Making Embedded Systems' by Elecia White to try and familiarize myself with the basics. I ordered a basic esp32 electronics kit and used arduino core to write simple programs (controlling leds, servos, ect). I used this in the past halloween to make a motion sensing jack-o'lantern that when someone passed by would play scary music, move a robot arm, and blink led eyes. I also wrote some very basic code in circuit python for the raspberry pi pico 2 as part of a semester project last year.
+
+I really hope this class will allow me to explore not only advanced topics in embedded systems, but to gain a deeper appreciation of operating systems and working with C. During my undergraduate studies I didn’t have the time to learn these topics in depth and I am really looking forward to the mini-projects!
