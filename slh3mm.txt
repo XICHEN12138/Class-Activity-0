@@ -1,0 +1,23 @@
+Name: Spencer Hernandez, slh3mm
+Background:
+    - Courses:
+        ~ Intro to embedded
+        ~ Operating Systems
+        ~ Computer architecture
+        ~ Capstone
+    - Platforms:
+        ~ Arduino
+        ~ STM32
+        ~ MSP
+        ~ Raspberry Pi (4 and Pico)
+    - Languages
+        ~ Python
+        ~ Java
+        ~ C
+        ~ C++
+        ~ VHDL
+        ~ HTML
+        ~ JavaScript
+Interests: I'm generally interested in Machine Learning, but wanted to brush up on my systems knowledge since it never
+hurts to know what's going on under the hood. I think this will be an interesting and enjoyable refresher class, and I
+hope to become more (even more) comfortable with embedded programming.
