@@ -1,0 +1,11 @@
+Inji Kim, ddh8jk
+
+Background:
+I have taken introductory courses in Embedded Systems, Computer Architecture, and Operating Systems. 
+Last semester, I worked with the STM32 board and the x-nucleo-eeprma2, 
+testing them using GPIO, FSM, UART, SPI, and I2C. 
+Additionally, I simulated a RISC-V CPU and cache memory using Python.
+
+Interest and Expectations:
+In this class, I aim to integrate my knowledge of Operating Systems, Embedded Systems, and Computer Architecture. 
+My goal is to build a unique project that combines all these areas.
