@@ -1,0 +1,4 @@
+Name: Jackson Lamb
+UVA ID: JLL3DDV
+Background: In addition to taking Intro to Embedded and Computer Architecture, I have completed my ECE capstone project, which involved using microcontrollers to track a user's hand and teleoperate a robotic hand in response. I have used the Arduino Uno, STM32, and ESP32 microcontrollers in addition to the PlatformIO and STM32CubeIDE platforms. I have experience with the C/C++, Python, and Java programming languages.
+Interests: I am primarily interested in embedded hardware and computer architecture. I'm excited to learn about the design of embedded systems and real-time operating systems.
