@@ -1,0 +1,11 @@
+Andy Chen, njx7sq
+
+I have taken Intro to Embedded Systems working in C on the STM32 platform
+I have completed my Capstone last semester and developed an embedded system for the UVA
+Swim and Dive team that measured force production from swim starts
+I have also previously interned at a defense company that worked on embedded
+software for software defined radios. 
+
+I am hoping to get out of this class a deeper understanding behind design conepts
+in embedded systems and working on a cool marketable project.
+
