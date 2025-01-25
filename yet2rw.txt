@@ -1,0 +1,6 @@
+Name: Xi Chen
+ID: yet2rw
+
+I have a background in Electrical and Electronics Engineering from my undergraduate studies. During my coursework, I took classes on digital design and assembly programming, which provided me with foundational knowledge in embedded systems. In my research, I have worked with microcontrollers like the NRF52 and ESP32, primarily programming in C to control LEDs and PD arrays for wearable devices. These experiences have helped me gain practical insights into embedded programming and device control.
+
+Through this class, I aim to further prepare myself for working with more complex embedded systems in the future. I am particularly interested in exploring the capabilities of modern devices and understanding their potential applications. My goal is to enhance my skills and broaden my understanding to support advanced research and development in this field.
